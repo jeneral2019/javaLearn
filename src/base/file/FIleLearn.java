@@ -1,10 +1,7 @@
-package base.exec;
+package base.file;
 
-public class Test01 {
+public class FIleLearn {
     public static void main(String[] args) {
-
 
     }
 }
-
-
